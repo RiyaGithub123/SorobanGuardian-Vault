@@ -5,3 +5,4 @@ Project `SorobanGuardian-Vault` tracking log.
 ## [0.1.0] - 2025-11-24
 - Project initialized on Stellar Soroban
 - Added gitignore and initial project structure
+- 2025-11-25 20:17:27 - refactor: tune parameters for on-chain audit trail and ledger activity feed
