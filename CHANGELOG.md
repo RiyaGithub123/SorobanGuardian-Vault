@@ -12,3 +12,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-11-27 14:26:49 - feat: add unit checks for add event emissions for guardian approval
 - 2025-11-28 18:45:46 - docs: add unit checks for fix timelock comparison for sub-second precision
 - 2025-11-29 15:29:30 - test: refactor timelock delay enforcement on recovery execution implementation
+- 2025-11-29 16:15:26 - perf: add unit checks for architecture markdown with mermaid governance flow
