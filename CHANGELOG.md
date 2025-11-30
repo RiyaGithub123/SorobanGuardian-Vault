@@ -15,3 +15,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-11-29 16:15:26 - perf: add unit checks for architecture markdown with mermaid governance flow
 - 2025-11-29 20:55:25 - style: enhance guardian registry and threshold quorum validation
 - 2025-11-30 12:02:01 - feat: enhance on-chain audit trail and ledger activity feed
+- 2025-11-30 12:35:36 - docs: enhance soroban unit test for velocity spend rejection
