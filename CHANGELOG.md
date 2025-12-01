@@ -16,3 +16,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-11-29 20:55:25 - style: enhance guardian registry and threshold quorum validation
 - 2025-11-30 12:02:01 - feat: enhance on-chain audit trail and ledger activity feed
 - 2025-11-30 12:35:36 - docs: enhance soroban unit test for velocity spend rejection
+- 2025-12-01 15:29:43 - style: add unit checks for velocity quota reset on epoch rollover
