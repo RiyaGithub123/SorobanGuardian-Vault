@@ -17,3 +17,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-11-30 12:02:01 - feat: enhance on-chain audit trail and ledger activity feed
 - 2025-11-30 12:35:36 - docs: enhance soroban unit test for velocity spend rejection
 - 2025-12-01 15:29:43 - style: add unit checks for velocity quota reset on epoch rollover
+- 2025-12-01 17:14:20 - refactor: refactor optimized wasm32v1-none build and size reduction implementation
