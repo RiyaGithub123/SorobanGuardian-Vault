@@ -23,3 +23,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-02 18:15:05 - chore: add unit checks for guardian registry and threshold quorum validation
 - 2025-12-03 10:26:51 - perf: refactor optimized wasm32v1-none build and size reduction implementation
 - 2025-12-03 10:57:15 - feat: tune parameters for architecture markdown with mermaid governance flow
+- 2025-12-03 16:18:40 - perf: add unit checks for React Web3 account abstraction portal
