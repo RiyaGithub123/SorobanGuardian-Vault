@@ -21,3 +21,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-01 22:32:48 - style: refactor smart account vault contract initialization implementation
 - 2025-12-02 10:41:10 - style: resolve issue in velocity quota reset on epoch rollover
 - 2025-12-02 18:15:05 - chore: add unit checks for guardian registry and threshold quorum validation
+- 2025-12-03 10:26:51 - perf: refactor optimized wasm32v1-none build and size reduction implementation
