@@ -28,3 +28,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-04 09:56:24 - fix: enhance timelock delay enforcement on recovery execution
 - 2025-12-04 10:23:07 - test: rolling 24-hour velocity limit spending model
 - 2025-12-04 16:31:11 - style: resolve issue in emergency social recovery proposal structure
+- 2025-12-04 20:28:51 - docs: update guardian cryptographic vote recording
