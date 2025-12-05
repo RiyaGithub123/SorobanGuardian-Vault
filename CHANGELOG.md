@@ -30,3 +30,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-04 16:31:11 - style: resolve issue in emergency social recovery proposal structure
 - 2025-12-04 20:28:51 - docs: update guardian cryptographic vote recording
 - 2025-12-04 21:07:04 - style: enhance soroban unit test for velocity spend rejection
+- 2025-12-05 16:57:09 - docs: enhance velocity quota reset on epoch rollover
