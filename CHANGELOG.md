@@ -32,3 +32,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-04 21:07:04 - style: enhance soroban unit test for velocity spend rejection
 - 2025-12-05 16:57:09 - docs: enhance velocity quota reset on epoch rollover
 - 2025-12-05 20:21:14 - refactor: update optimized wasm32v1-none build and size reduction
+- 2025-12-08 11:55:50 - perf: resolve issue in guardian cryptographic vote recording
