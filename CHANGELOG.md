@@ -36,3 +36,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-08 16:37:59 - refactor: ownership migration and old key revocation
 - 2025-12-10 10:00:06 - chore: update multi-role simulation for owner and guardians
 - 2025-12-10 20:39:26 - perf: enhance dynamic daily spending quota meter
+- 2025-12-11 10:39:31 - feat: enhance guardian voting desk and signature simulator
