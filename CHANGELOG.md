@@ -37,3 +37,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-10 10:00:06 - chore: update multi-role simulation for owner and guardians
 - 2025-12-10 20:39:26 - perf: enhance dynamic daily spending quota meter
 - 2025-12-11 10:39:31 - feat: enhance guardian voting desk and signature simulator
+- 2025-12-11 16:28:32 - docs: tune parameters for velocity quota reset on epoch rollover
