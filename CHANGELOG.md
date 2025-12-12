@@ -40,3 +40,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-11 16:28:32 - docs: tune parameters for velocity quota reset on epoch rollover
 - 2025-12-11 18:05:39 - chore: resolve issue in emergency social recovery proposal structure
 - 2025-12-12 11:29:09 - fix: add unit checks for architecture markdown with mermaid governance flow
+- 2025-12-12 19:45:31 - test: add unit checks for fast-path spending authorization for owner key
