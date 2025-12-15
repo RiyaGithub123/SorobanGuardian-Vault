@@ -44,3 +44,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-12 21:58:17 - docs: refactor timelock delay enforcement on recovery execution implementation
 - 2025-12-15 11:04:38 - style: tune parameters for ownership migration and old key revocation
 - 2025-12-15 12:14:55 - chore: enhance emergency social recovery proposal structure
+- 2025-12-15 13:01:32 - fix: dynamic daily spending quota meter
