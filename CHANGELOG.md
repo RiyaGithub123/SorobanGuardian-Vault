@@ -51,3 +51,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-16 09:48:55 - style: add unit checks for guardian cryptographic vote recording
 - 2025-12-16 11:26:16 - docs: update timelock countdown bar and security status
 - 2025-12-16 16:36:57 - style: add unit checks for timelock countdown bar and security status
+- 2025-12-16 17:48:29 - fix: resolve issue in fast-path spending authorization for owner key
