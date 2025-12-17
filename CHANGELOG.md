@@ -53,3 +53,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-16 16:36:57 - style: add unit checks for timelock countdown bar and security status
 - 2025-12-16 17:48:29 - fix: resolve issue in fast-path spending authorization for owner key
 - 2025-12-16 20:58:44 - feat: timelock delay enforcement on recovery execution
+- 2025-12-17 11:08:51 - refactor: tune parameters for guardian voting desk and signature simulator
