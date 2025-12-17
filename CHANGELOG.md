@@ -55,3 +55,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-16 20:58:44 - feat: timelock delay enforcement on recovery execution
 - 2025-12-17 11:08:51 - refactor: tune parameters for guardian voting desk and signature simulator
 - 2025-12-17 16:08:33 - feat: enhance add event emissions for guardian approval
+- 2025-12-17 16:14:56 - feat: update soroban unit test for social recovery workflow
