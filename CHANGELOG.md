@@ -58,3 +58,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-17 16:14:56 - feat: update soroban unit test for social recovery workflow
 - 2025-12-18 12:51:00 - test: update add event emissions for guardian approval
 - 2025-12-18 15:39:08 - fix: soroban unit test for velocity spend rejection
+- 2025-12-18 17:48:02 - feat: add unit checks for architecture markdown with mermaid governance flow
