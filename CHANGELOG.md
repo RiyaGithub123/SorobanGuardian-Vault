@@ -61,3 +61,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-18 17:48:02 - feat: add unit checks for architecture markdown with mermaid governance flow
 - 2025-12-18 21:57:13 - refactor: add unit checks for React Web3 account abstraction portal
 - 2025-12-24 15:34:32 - docs: soroban unit test for social recovery workflow
+- 2025-12-24 15:50:46 - feat: tune parameters for add event emissions for guardian approval
