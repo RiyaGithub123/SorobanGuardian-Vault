@@ -63,3 +63,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-24 15:34:32 - docs: soroban unit test for social recovery workflow
 - 2025-12-24 15:50:46 - feat: tune parameters for add event emissions for guardian approval
 - 2025-12-26 09:40:44 - refactor: tune parameters for timelock countdown bar and security status
+- 2025-12-26 11:37:25 - chore: tune parameters for velocity quota reset on epoch rollover
