@@ -67,3 +67,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-31 09:18:32 - refactor: tune parameters for soroban unit test for social recovery workflow
 - 2025-12-31 10:45:23 - fix: ownership migration and old key revocation
 - 2025-12-31 11:27:39 - chore: tune parameters for verify storage instance TTL renewal on vault spend
+- 2025-12-31 20:57:12 - test: update fix timelock comparison for sub-second precision
