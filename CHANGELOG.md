@@ -65,3 +65,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-26 09:40:44 - refactor: tune parameters for timelock countdown bar and security status
 - 2025-12-26 11:37:25 - chore: tune parameters for velocity quota reset on epoch rollover
 - 2025-12-31 09:18:32 - refactor: tune parameters for soroban unit test for social recovery workflow
+- 2025-12-31 10:45:23 - fix: ownership migration and old key revocation
