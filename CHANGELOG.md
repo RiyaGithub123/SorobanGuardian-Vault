@@ -70,3 +70,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2025-12-31 20:57:12 - test: update fix timelock comparison for sub-second precision
 - 2026-01-01 13:27:35 - feat: refactor velocity quota reset on epoch rollover implementation
 - 2026-01-01 22:05:26 - refactor: rolling 24-hour velocity limit spending model
+- 2026-01-05 10:35:24 - test: enhance multi-role simulation for owner and guardians
