@@ -72,3 +72,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-01 22:05:26 - refactor: rolling 24-hour velocity limit spending model
 - 2026-01-05 10:35:24 - test: enhance multi-role simulation for owner and guardians
 - 2026-01-05 11:32:36 - refactor: add unit checks for timelock delay enforcement on recovery execution
+- 2026-01-07 15:18:41 - refactor: add unit checks for fix timelock comparison for sub-second precision
