@@ -74,3 +74,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-05 11:32:36 - refactor: add unit checks for timelock delay enforcement on recovery execution
 - 2026-01-07 15:18:41 - refactor: add unit checks for fix timelock comparison for sub-second precision
 - 2026-01-07 19:34:55 - perf: refactor soroban unit test for velocity spend rejection implementation
+- 2026-01-08 12:51:02 - refactor: add unit checks for dynamic daily spending quota meter
