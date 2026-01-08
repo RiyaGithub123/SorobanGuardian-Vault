@@ -75,3 +75,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-07 15:18:41 - refactor: add unit checks for fix timelock comparison for sub-second precision
 - 2026-01-07 19:34:55 - perf: refactor soroban unit test for velocity spend rejection implementation
 - 2026-01-08 12:51:02 - refactor: add unit checks for dynamic daily spending quota meter
+- 2026-01-08 14:52:51 - test: tune parameters for smart account vault contract initialization
