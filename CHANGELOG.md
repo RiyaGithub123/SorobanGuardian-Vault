@@ -78,3 +78,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-08 14:52:51 - test: tune parameters for smart account vault contract initialization
 - 2026-01-08 16:05:01 - fix: resolve issue in multi-role simulation for owner and guardians
 - 2026-01-08 17:59:15 - fix: timelock countdown bar and security status
+- 2026-01-08 20:13:05 - feat: update rolling 24-hour velocity limit spending model
