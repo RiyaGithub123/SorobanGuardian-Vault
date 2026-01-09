@@ -82,3 +82,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-08 21:51:34 - docs: resolve issue in fast-path spending authorization for owner key
 - 2026-01-09 11:55:17 - refactor: tune parameters for smart account vault contract initialization
 - 2026-01-09 13:04:31 - perf: update timelock countdown bar and security status
+- 2026-01-09 18:53:35 - refactor: refactor guardian registry and threshold quorum validation implementation
