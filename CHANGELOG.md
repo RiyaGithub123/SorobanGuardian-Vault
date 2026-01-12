@@ -85,3 +85,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-09 18:53:35 - refactor: refactor guardian registry and threshold quorum validation implementation
 - 2026-01-12 09:45:46 - chore: refactor smart account vault contract initialization implementation
 - 2026-01-12 12:52:55 - style: add event emissions for guardian approval
+- 2026-01-12 21:32:25 - fix: resolve issue in emergency social recovery proposal structure
