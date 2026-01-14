@@ -87,3 +87,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-12 12:52:55 - style: add event emissions for guardian approval
 - 2026-01-12 21:32:25 - fix: resolve issue in emergency social recovery proposal structure
 - 2026-01-13 16:25:42 - style: tune parameters for velocity quota reset on epoch rollover
+- 2026-01-14 11:00:18 - feat: tune parameters for multi-role simulation for owner and guardians
