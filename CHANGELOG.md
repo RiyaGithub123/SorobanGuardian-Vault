@@ -89,3 +89,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-13 16:25:42 - style: tune parameters for velocity quota reset on epoch rollover
 - 2026-01-14 11:00:18 - feat: tune parameters for multi-role simulation for owner and guardians
 - 2026-01-14 12:37:57 - feat: tune parameters for on-chain audit trail and ledger activity feed
+- 2026-01-14 13:54:21 - fix: add unit checks for soroban unit test for social recovery workflow
