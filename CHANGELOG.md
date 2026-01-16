@@ -92,3 +92,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-14 13:54:21 - fix: add unit checks for soroban unit test for social recovery workflow
 - 2026-01-15 09:35:51 - chore: resolve issue in React Web3 account abstraction portal
 - 2026-01-16 12:44:23 - docs: resolve issue in guardian registry and threshold quorum validation
+- 2026-01-16 12:46:18 - perf: resolve issue in smart account vault contract initialization
