@@ -98,3 +98,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-20 13:33:34 - perf: refactor timelock countdown bar and security status implementation
 - 2026-01-22 13:14:40 - fix: refactor on-chain audit trail and ledger activity feed implementation
 - 2026-01-22 14:19:22 - style: resolve issue in rolling 24-hour velocity limit spending model
+- 2026-01-22 17:45:01 - perf: add unit checks for velocity quota reset on epoch rollover
