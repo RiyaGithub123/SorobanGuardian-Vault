@@ -96,3 +96,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-16 16:49:35 - chore: dynamic daily spending quota meter
 - 2026-01-20 09:57:17 - feat: refactor rolling 24-hour velocity limit spending model implementation
 - 2026-01-20 13:33:34 - perf: refactor timelock countdown bar and security status implementation
+- 2026-01-22 13:14:40 - fix: refactor on-chain audit trail and ledger activity feed implementation
