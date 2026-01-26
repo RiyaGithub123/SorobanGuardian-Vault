@@ -100,3 +100,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-22 14:19:22 - style: resolve issue in rolling 24-hour velocity limit spending model
 - 2026-01-22 17:45:01 - perf: add unit checks for velocity quota reset on epoch rollover
 - 2026-01-24 09:49:31 - feat: update soroban unit test for social recovery workflow
+- 2026-01-26 13:30:44 - test: refactor multi-role simulation for owner and guardians implementation
