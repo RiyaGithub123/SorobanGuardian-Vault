@@ -103,3 +103,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-26 13:30:44 - test: refactor multi-role simulation for owner and guardians implementation
 - 2026-01-26 20:50:49 - perf: update guardian cryptographic vote recording
 - 2026-01-27 10:47:20 - style: resolve issue in timelock countdown bar and security status
+- 2026-01-27 11:01:24 - perf: guardian registry and threshold quorum validation
