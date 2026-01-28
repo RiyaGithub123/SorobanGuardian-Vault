@@ -106,3 +106,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-27 11:01:24 - perf: guardian registry and threshold quorum validation
 - 2026-01-27 17:43:57 - test: resolve issue in guardian voting desk and signature simulator
 - 2026-01-28 17:44:01 - feat: resolve issue in React Web3 account abstraction portal
+- 2026-01-28 20:44:11 - docs: add unit checks for optimized wasm32v1-none build and size reduction
