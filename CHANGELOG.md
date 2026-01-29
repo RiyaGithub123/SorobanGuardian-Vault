@@ -108,3 +108,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-28 17:44:01 - feat: resolve issue in React Web3 account abstraction portal
 - 2026-01-28 20:44:11 - docs: add unit checks for optimized wasm32v1-none build and size reduction
 - 2026-01-29 16:11:34 - fix: resolve issue in verify storage instance TTL renewal on vault spend
+- 2026-01-29 20:04:32 - feat: tune parameters for emergency social recovery proposal structure
