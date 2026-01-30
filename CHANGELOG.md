@@ -110,3 +110,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-29 16:11:34 - fix: resolve issue in verify storage instance TTL renewal on vault spend
 - 2026-01-29 20:04:32 - feat: tune parameters for emergency social recovery proposal structure
 - 2026-01-29 22:27:19 - style: resolve issue in on-chain audit trail and ledger activity feed
+- 2026-01-30 16:52:55 - fix: add unit checks for React Web3 account abstraction portal
