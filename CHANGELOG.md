@@ -113,3 +113,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-01-30 16:52:55 - fix: add unit checks for React Web3 account abstraction portal
 - 2026-01-30 20:53:31 - chore: enhance timelock countdown bar and security status
 - 2026-02-02 14:25:54 - refactor: add unit checks for smart account vault contract initialization
+- 2026-02-03 10:25:58 - feat: enhance fast-path spending authorization for owner key
