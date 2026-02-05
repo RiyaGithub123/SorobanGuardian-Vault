@@ -115,3 +115,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-02 14:25:54 - refactor: add unit checks for smart account vault contract initialization
 - 2026-02-03 10:25:58 - feat: enhance fast-path spending authorization for owner key
 - 2026-02-03 20:39:45 - test: enhance emergency social recovery proposal structure
+- 2026-02-05 12:26:11 - feat: update add event emissions for guardian approval
