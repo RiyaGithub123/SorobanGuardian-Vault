@@ -117,3 +117,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-03 20:39:45 - test: enhance emergency social recovery proposal structure
 - 2026-02-05 12:26:11 - feat: update add event emissions for guardian approval
 - 2026-02-05 19:53:05 - refactor: resolve issue in multi-role simulation for owner and guardians
+- 2026-02-05 20:56:07 - fix: tune parameters for emergency social recovery proposal structure
