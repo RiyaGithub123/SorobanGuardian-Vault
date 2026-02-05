@@ -116,3 +116,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-03 10:25:58 - feat: enhance fast-path spending authorization for owner key
 - 2026-02-03 20:39:45 - test: enhance emergency social recovery proposal structure
 - 2026-02-05 12:26:11 - feat: update add event emissions for guardian approval
+- 2026-02-05 19:53:05 - refactor: resolve issue in multi-role simulation for owner and guardians
