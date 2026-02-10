@@ -120,3 +120,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-05 20:56:07 - fix: tune parameters for emergency social recovery proposal structure
 - 2026-02-09 22:24:51 - chore: velocity quota reset on epoch rollover
 - 2026-02-10 09:30:46 - feat: resolve issue in multi-role simulation for owner and guardians
+- 2026-02-10 10:42:34 - perf: update verify storage instance TTL renewal on vault spend
