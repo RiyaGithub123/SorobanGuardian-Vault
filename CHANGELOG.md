@@ -125,3 +125,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-10 12:14:54 - style: tune parameters for verify storage instance TTL renewal on vault spend
 - 2026-02-11 14:03:47 - chore: enhance guardian registry and threshold quorum validation
 - 2026-02-11 18:20:11 - feat: resolve issue in emergency social recovery proposal structure
+- 2026-02-11 19:56:49 - style: tune parameters for emergency social recovery proposal structure
