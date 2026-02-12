@@ -128,3 +128,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-11 19:56:49 - style: tune parameters for emergency social recovery proposal structure
 - 2026-02-11 20:38:10 - feat: update React Web3 account abstraction portal
 - 2026-02-12 09:47:00 - fix: resolve issue in guardian cryptographic vote recording
+- 2026-02-12 12:10:54 - perf: optimized wasm32v1-none build and size reduction
