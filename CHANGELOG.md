@@ -130,3 +130,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-12 09:47:00 - fix: resolve issue in guardian cryptographic vote recording
 - 2026-02-12 12:10:54 - perf: optimized wasm32v1-none build and size reduction
 - 2026-02-12 18:47:54 - style: tune parameters for guardian voting desk and signature simulator
+- 2026-02-12 21:03:25 - refactor: add unit checks for soroban unit test for social recovery workflow
