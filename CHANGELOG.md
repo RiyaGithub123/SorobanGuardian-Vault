@@ -137,3 +137,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-13 18:44:36 - perf: update optimized wasm32v1-none build and size reduction
 - 2026-02-13 20:59:57 - test: tune parameters for verify storage instance TTL renewal on vault spend
 - 2026-02-16 09:43:20 - fix: resolve issue in guardian registry and threshold quorum validation
+- 2026-02-17 09:48:00 - test: guardian registry and threshold quorum validation
