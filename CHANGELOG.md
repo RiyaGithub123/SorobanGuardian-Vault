@@ -140,3 +140,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-17 09:48:00 - test: guardian registry and threshold quorum validation
 - 2026-02-17 17:37:24 - chore: tune parameters for velocity quota reset on epoch rollover
 - 2026-02-19 09:26:20 - fix: resolve issue in dynamic daily spending quota meter
+- 2026-02-19 12:41:53 - chore: update guardian cryptographic vote recording
