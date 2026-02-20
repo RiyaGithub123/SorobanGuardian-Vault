@@ -144,3 +144,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-20 10:33:18 - refactor: add unit checks for guardian cryptographic vote recording
 - 2026-02-20 16:51:07 - feat: tune parameters for fast-path spending authorization for owner key
 - 2026-02-20 18:44:13 - feat: tune parameters for optimized wasm32v1-none build and size reduction
+- 2026-02-20 19:02:44 - style: add unit checks for fast-path spending authorization for owner key
