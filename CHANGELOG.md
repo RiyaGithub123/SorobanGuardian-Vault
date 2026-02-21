@@ -147,3 +147,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-20 19:02:44 - style: add unit checks for fast-path spending authorization for owner key
 - 2026-02-20 20:16:22 - fix: update soroban unit test for social recovery workflow
 - 2026-02-21 19:32:20 - fix: enhance multi-role simulation for owner and guardians
+- 2026-02-21 22:15:53 - fix: fast-path spending authorization for owner key
