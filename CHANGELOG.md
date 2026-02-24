@@ -151,3 +151,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-24 09:15:02 - chore: add unit checks for guardian cryptographic vote recording
 - 2026-02-24 13:58:49 - fix: tune parameters for timelock countdown bar and security status
 - 2026-02-24 15:59:34 - perf: resolve issue in on-chain audit trail and ledger activity feed
+- 2026-02-24 18:48:40 - docs: tune parameters for guardian cryptographic vote recording
