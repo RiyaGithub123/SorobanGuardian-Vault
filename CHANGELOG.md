@@ -153,3 +153,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-24 15:59:34 - perf: resolve issue in on-chain audit trail and ledger activity feed
 - 2026-02-24 18:48:40 - docs: tune parameters for guardian cryptographic vote recording
 - 2026-02-25 16:20:14 - perf: add unit checks for rolling 24-hour velocity limit spending model
+- 2026-02-25 17:29:50 - style: refactor soroban unit test for velocity spend rejection implementation
