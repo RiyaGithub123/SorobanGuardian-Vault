@@ -160,3 +160,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-26 14:14:13 - fix: update multi-role simulation for owner and guardians
 - 2026-02-26 15:01:24 - style: ownership migration and old key revocation
 - 2026-02-26 16:14:55 - docs: refactor ownership migration and old key revocation implementation
+- 2026-02-26 19:23:59 - docs: add unit checks for add event emissions for guardian approval
