@@ -163,3 +163,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-26 19:23:59 - docs: add unit checks for add event emissions for guardian approval
 - 2026-02-27 11:27:46 - fix: timelock delay enforcement on recovery execution
 - 2026-02-27 22:06:45 - test: resolve issue in soroban unit test for social recovery workflow
+- 2026-02-27 22:07:33 - fix: resolve issue in verify storage instance TTL renewal on vault spend
