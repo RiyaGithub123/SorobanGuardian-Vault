@@ -168,3 +168,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-03-01 22:20:03 - perf: refactor guardian registry and threshold quorum validation implementation
 - 2026-03-02 09:17:04 - fix: enhance emergency social recovery proposal structure
 - 2026-03-02 10:19:28 - docs: resolve issue in verify storage instance TTL renewal on vault spend
+- 2026-03-02 11:22:25 - feat: add unit checks for soroban unit test for social recovery workflow
