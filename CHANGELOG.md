@@ -166,3 +166,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-02-27 22:07:33 - fix: resolve issue in verify storage instance TTL renewal on vault spend
 - 2026-03-01 20:16:57 - refactor: add unit checks for timelock delay enforcement on recovery execution
 - 2026-03-01 22:20:03 - perf: refactor guardian registry and threshold quorum validation implementation
+- 2026-03-02 09:17:04 - fix: enhance emergency social recovery proposal structure
