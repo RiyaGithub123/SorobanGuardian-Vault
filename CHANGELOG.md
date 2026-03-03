@@ -170,3 +170,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-03-02 10:19:28 - docs: resolve issue in verify storage instance TTL renewal on vault spend
 - 2026-03-02 11:22:25 - feat: add unit checks for soroban unit test for social recovery workflow
 - 2026-03-02 19:36:19 - perf: refactor smart account vault contract initialization implementation
+- 2026-03-03 10:37:47 - chore: refactor guardian cryptographic vote recording implementation
