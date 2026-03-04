@@ -173,3 +173,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-03-03 10:37:47 - chore: refactor guardian cryptographic vote recording implementation
 - 2026-03-04 09:27:38 - chore: refactor emergency social recovery proposal structure implementation
 - 2026-03-04 11:03:58 - style: add unit checks for soroban unit test for velocity spend rejection
+- 2026-03-04 12:19:21 - refactor: add unit checks for guardian registry and threshold quorum validation
