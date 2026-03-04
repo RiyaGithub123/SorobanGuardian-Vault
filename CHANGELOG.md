@@ -174,3 +174,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-03-04 09:27:38 - chore: refactor emergency social recovery proposal structure implementation
 - 2026-03-04 11:03:58 - style: add unit checks for soroban unit test for velocity spend rejection
 - 2026-03-04 12:19:21 - refactor: add unit checks for guardian registry and threshold quorum validation
+- 2026-03-04 19:20:11 - fix: tune parameters for smart account vault contract initialization
