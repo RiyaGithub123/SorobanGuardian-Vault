@@ -177,3 +177,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-03-04 19:20:11 - fix: tune parameters for smart account vault contract initialization
 - 2026-03-04 22:11:52 - style: multi-role simulation for owner and guardians
 - 2026-03-05 10:28:06 - fix: enhance guardian voting desk and signature simulator
+- 2026-03-05 15:14:35 - perf: enhance velocity quota reset on epoch rollover
