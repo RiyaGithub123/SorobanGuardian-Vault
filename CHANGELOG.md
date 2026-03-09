@@ -182,3 +182,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-03-05 21:07:02 - fix: resolve issue in smart account vault contract initialization
 - 2026-03-05 21:14:00 - feat: add unit checks for multi-role simulation for owner and guardians
 - 2026-03-09 15:43:59 - test: update fast-path spending authorization for owner key
+- 2026-03-09 22:10:41 - refactor: tune parameters for timelock delay enforcement on recovery execution
