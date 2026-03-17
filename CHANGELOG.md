@@ -189,3 +189,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-03-13 16:11:16 - fix: fix timelock comparison for sub-second precision
 - 2026-03-13 19:53:24 - perf: update soroban unit test for velocity spend rejection
 - 2026-03-13 22:27:16 - test: refactor timelock countdown bar and security status implementation
+- 2026-03-17 13:27:57 - docs: tune parameters for rolling 24-hour velocity limit spending model
