@@ -192,3 +192,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-03-17 13:27:57 - docs: tune parameters for rolling 24-hour velocity limit spending model
 - 2026-03-17 15:30:06 - feat: add unit checks for timelock countdown bar and security status
 - 2026-03-18 09:41:34 - refactor: refactor fast-path spending authorization for owner key implementation
+- 2026-03-18 18:36:02 - feat: enhance velocity quota reset on epoch rollover
