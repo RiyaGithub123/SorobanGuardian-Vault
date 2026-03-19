@@ -197,3 +197,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-03-19 11:57:22 - style: tune parameters for rolling 24-hour velocity limit spending model
 - 2026-03-19 15:39:25 - style: add unit checks for guardian cryptographic vote recording
 - 2026-03-19 18:14:00 - feat: enhance add event emissions for guardian approval
+- 2026-03-19 18:34:50 - style: add event emissions for guardian approval
