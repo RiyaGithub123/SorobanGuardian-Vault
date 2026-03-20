@@ -198,3 +198,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-03-19 15:39:25 - style: add unit checks for guardian cryptographic vote recording
 - 2026-03-19 18:14:00 - feat: enhance add event emissions for guardian approval
 - 2026-03-19 18:34:50 - style: add event emissions for guardian approval
+- 2026-03-20 11:56:37 - feat: add unit checks for timelock delay enforcement on recovery execution
