@@ -201,3 +201,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-03-20 11:56:37 - feat: add unit checks for timelock delay enforcement on recovery execution
 - 2026-03-20 15:23:50 - refactor: enhance timelock countdown bar and security status
 - 2026-03-23 14:16:52 - style: refactor ownership migration and old key revocation implementation
+- 2026-03-23 14:17:03 - chore: update fast-path spending authorization for owner key
