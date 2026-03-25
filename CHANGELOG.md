@@ -204,3 +204,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-03-23 14:17:03 - chore: update fast-path spending authorization for owner key
 - 2026-03-23 19:23:35 - chore: update fast-path spending authorization for owner key
 - 2026-03-25 13:59:09 - docs: resolve issue in multi-role simulation for owner and guardians
+- 2026-03-25 14:26:14 - perf: resolve issue in guardian cryptographic vote recording
