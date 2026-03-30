@@ -209,3 +209,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-03-27 09:44:13 - perf: resolve issue in guardian cryptographic vote recording
 - 2026-03-27 18:36:57 - feat: resolve issue in timelock delay enforcement on recovery execution
 - 2026-03-27 20:07:46 - perf: resolve issue in soroban unit test for velocity spend rejection
+- 2026-03-30 20:35:05 - perf: update soroban unit test for velocity spend rejection
