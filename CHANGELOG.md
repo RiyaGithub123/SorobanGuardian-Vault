@@ -215,3 +215,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-04-01 20:00:51 - docs: refactor optimized wasm32v1-none build and size reduction implementation
 - 2026-04-02 11:56:02 - style: resolve issue in rolling 24-hour velocity limit spending model
 - 2026-04-02 15:07:13 - chore: tune parameters for architecture markdown with mermaid governance flow
+- 2026-04-02 22:33:10 - docs: tune parameters for guardian cryptographic vote recording
