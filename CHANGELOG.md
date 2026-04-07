@@ -217,3 +217,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-04-02 15:07:13 - chore: tune parameters for architecture markdown with mermaid governance flow
 - 2026-04-02 22:33:10 - docs: tune parameters for guardian cryptographic vote recording
 - 2026-04-07 10:15:00 - refactor: tune parameters for dynamic daily spending quota meter
+- 2026-04-07 13:23:24 - feat: tune parameters for verify storage instance TTL renewal on vault spend
