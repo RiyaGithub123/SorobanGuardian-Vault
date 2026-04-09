@@ -219,3 +219,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-04-07 10:15:00 - refactor: tune parameters for dynamic daily spending quota meter
 - 2026-04-07 13:23:24 - feat: tune parameters for verify storage instance TTL renewal on vault spend
 - 2026-04-09 17:55:36 - docs: update fast-path spending authorization for owner key
+- 2026-04-09 19:57:42 - feat: resolve issue in multi-role simulation for owner and guardians
