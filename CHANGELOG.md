@@ -224,3 +224,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-04-14 10:21:31 - refactor: tune parameters for multi-role simulation for owner and guardians
 - 2026-04-14 14:43:42 - fix: refactor on-chain audit trail and ledger activity feed implementation
 - 2026-04-14 17:43:00 - style: resolve issue in ownership migration and old key revocation
+- 2026-04-14 18:08:23 - refactor: add unit checks for emergency social recovery proposal structure
