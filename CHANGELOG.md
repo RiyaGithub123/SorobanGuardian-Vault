@@ -221,3 +221,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-04-09 17:55:36 - docs: update fast-path spending authorization for owner key
 - 2026-04-09 19:57:42 - feat: resolve issue in multi-role simulation for owner and guardians
 - 2026-04-13 18:02:36 - feat: enhance add event emissions for guardian approval
+- 2026-04-14 10:21:31 - refactor: tune parameters for multi-role simulation for owner and guardians
