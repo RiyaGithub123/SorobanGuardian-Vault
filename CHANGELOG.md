@@ -237,3 +237,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-04-20 17:55:23 - style: soroban unit test for velocity spend rejection
 - 2026-04-22 14:43:09 - feat: update smart account vault contract initialization
 - 2026-04-22 16:50:22 - feat: enhance guardian voting desk and signature simulator
+- 2026-04-22 19:48:22 - refactor: update smart account vault contract initialization
