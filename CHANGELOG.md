@@ -235,3 +235,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-04-20 12:08:14 - feat: resolve issue in React Web3 account abstraction portal
 - 2026-04-20 12:47:45 - test: refactor verify storage instance TTL renewal on vault spend implementation
 - 2026-04-20 17:55:23 - style: soroban unit test for velocity spend rejection
+- 2026-04-22 14:43:09 - feat: update smart account vault contract initialization
