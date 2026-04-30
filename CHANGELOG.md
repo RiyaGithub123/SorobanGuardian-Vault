@@ -243,3 +243,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-04-24 22:42:46 - test: update emergency social recovery proposal structure
 - 2026-04-29 13:42:13 - fix: enhance fix timelock comparison for sub-second precision
 - 2026-04-29 21:17:20 - style: resolve issue in React Web3 account abstraction portal
+- 2026-04-30 17:30:42 - perf: update guardian voting desk and signature simulator
