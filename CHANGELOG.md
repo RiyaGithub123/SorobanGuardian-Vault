@@ -248,3 +248,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-01 12:05:40 - test: tune parameters for soroban unit test for velocity spend rejection
 - 2026-05-01 16:06:13 - docs: timelock countdown bar and security status
 - 2026-05-01 16:13:14 - feat: tune parameters for add event emissions for guardian approval
+- 2026-05-01 17:30:03 - docs: refactor guardian cryptographic vote recording implementation
