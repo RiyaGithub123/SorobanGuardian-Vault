@@ -247,3 +247,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-01 09:24:59 - docs: fix timelock comparison for sub-second precision
 - 2026-05-01 12:05:40 - test: tune parameters for soroban unit test for velocity spend rejection
 - 2026-05-01 16:06:13 - docs: timelock countdown bar and security status
+- 2026-05-01 16:13:14 - feat: tune parameters for add event emissions for guardian approval
