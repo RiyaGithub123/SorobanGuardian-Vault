@@ -245,3 +245,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-04-29 21:17:20 - style: resolve issue in React Web3 account abstraction portal
 - 2026-04-30 17:30:42 - perf: update guardian voting desk and signature simulator
 - 2026-05-01 09:24:59 - docs: fix timelock comparison for sub-second precision
+- 2026-05-01 12:05:40 - test: tune parameters for soroban unit test for velocity spend rejection
