@@ -252,3 +252,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-01 18:29:08 - chore: add unit checks for guardian voting desk and signature simulator
 - 2026-05-01 20:18:49 - perf: resolve issue in dynamic daily spending quota meter
 - 2026-05-04 12:38:27 - perf: resolve issue in guardian voting desk and signature simulator
+- 2026-05-04 19:43:38 - fix: on-chain audit trail and ledger activity feed
