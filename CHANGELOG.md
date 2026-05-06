@@ -254,3 +254,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-04 12:38:27 - perf: resolve issue in guardian voting desk and signature simulator
 - 2026-05-04 19:43:38 - fix: on-chain audit trail and ledger activity feed
 - 2026-05-04 21:11:45 - docs: verify storage instance TTL renewal on vault spend
+- 2026-05-06 14:08:00 - perf: update verify storage instance TTL renewal on vault spend
