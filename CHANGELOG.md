@@ -257,3 +257,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-06 14:08:00 - perf: update verify storage instance TTL renewal on vault spend
 - 2026-05-06 17:17:44 - perf: resolve issue in guardian cryptographic vote recording
 - 2026-05-06 17:44:16 - chore: add unit checks for velocity quota reset on epoch rollover
+- 2026-05-08 10:52:08 - refactor: add unit checks for smart account vault contract initialization
