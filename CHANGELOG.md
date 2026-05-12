@@ -259,3 +259,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-06 17:44:16 - chore: add unit checks for velocity quota reset on epoch rollover
 - 2026-05-08 10:52:08 - refactor: add unit checks for smart account vault contract initialization
 - 2026-05-12 09:15:19 - fix: enhance optimized wasm32v1-none build and size reduction
+- 2026-05-12 11:15:26 - perf: enhance fix timelock comparison for sub-second precision
