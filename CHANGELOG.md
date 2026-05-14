@@ -261,3 +261,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-12 09:15:19 - fix: enhance optimized wasm32v1-none build and size reduction
 - 2026-05-12 11:15:26 - perf: enhance fix timelock comparison for sub-second precision
 - 2026-05-14 09:22:06 - test: resolve issue in timelock countdown bar and security status
+- 2026-05-14 10:35:44 - refactor: soroban unit test for social recovery workflow
