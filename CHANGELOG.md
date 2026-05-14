@@ -264,3 +264,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-14 10:35:44 - refactor: soroban unit test for social recovery workflow
 - 2026-05-14 13:00:46 - chore: refactor guardian cryptographic vote recording implementation
 - 2026-05-14 14:40:52 - feat: tune parameters for velocity quota reset on epoch rollover
+- 2026-05-14 17:06:09 - chore: tune parameters for multi-role simulation for owner and guardians
