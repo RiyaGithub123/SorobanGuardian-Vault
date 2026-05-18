@@ -266,3 +266,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-14 14:40:52 - feat: tune parameters for velocity quota reset on epoch rollover
 - 2026-05-14 17:06:09 - chore: tune parameters for multi-role simulation for owner and guardians
 - 2026-05-14 18:07:30 - perf: add unit checks for timelock delay enforcement on recovery execution
+- 2026-05-18 15:20:30 - fix: update dynamic daily spending quota meter
