@@ -268,3 +268,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-14 18:07:30 - perf: add unit checks for timelock delay enforcement on recovery execution
 - 2026-05-18 15:20:30 - fix: update dynamic daily spending quota meter
 - 2026-05-18 20:28:26 - feat: resolve issue in soroban unit test for social recovery workflow
+- 2026-05-19 15:34:32 - docs: enhance ownership migration and old key revocation
