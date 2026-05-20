@@ -270,3 +270,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-18 20:28:26 - feat: resolve issue in soroban unit test for social recovery workflow
 - 2026-05-19 15:34:32 - docs: enhance ownership migration and old key revocation
 - 2026-05-20 09:22:06 - perf: resolve issue in timelock delay enforcement on recovery execution
+- 2026-05-20 12:10:10 - test: refactor soroban unit test for velocity spend rejection implementation
