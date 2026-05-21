@@ -272,3 +272,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-20 09:22:06 - perf: resolve issue in timelock delay enforcement on recovery execution
 - 2026-05-20 12:10:10 - test: refactor soroban unit test for velocity spend rejection implementation
 - 2026-05-21 16:23:00 - feat: resolve issue in velocity quota reset on epoch rollover
+- 2026-05-21 19:30:31 - test: tune parameters for architecture markdown with mermaid governance flow
