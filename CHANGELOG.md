@@ -274,3 +274,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-21 16:23:00 - feat: resolve issue in velocity quota reset on epoch rollover
 - 2026-05-21 19:30:31 - test: tune parameters for architecture markdown with mermaid governance flow
 - 2026-05-24 11:42:41 - style: add unit checks for soroban unit test for social recovery workflow
+- 2026-05-24 20:19:23 - test: update soroban unit test for velocity spend rejection
