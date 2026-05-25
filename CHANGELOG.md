@@ -277,3 +277,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-24 20:19:23 - test: update soroban unit test for velocity spend rejection
 - 2026-05-25 10:22:21 - feat: smart account vault contract initialization
 - 2026-05-25 11:40:28 - docs: tune parameters for on-chain audit trail and ledger activity feed
+- 2026-05-25 11:51:15 - style: tune parameters for multi-role simulation for owner and guardians
