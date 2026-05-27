@@ -283,3 +283,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-26 13:28:27 - feat: enhance rolling 24-hour velocity limit spending model
 - 2026-05-26 14:12:57 - feat: refactor timelock countdown bar and security status implementation
 - 2026-05-26 17:38:46 - docs: refactor soroban unit test for velocity spend rejection implementation
+- 2026-05-27 15:35:05 - test: add unit checks for timelock delay enforcement on recovery execution
