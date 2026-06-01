@@ -287,3 +287,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-05-27 18:43:53 - perf: optimized wasm32v1-none build and size reduction
 - 2026-06-01 17:26:40 - docs: add unit checks for fix timelock comparison for sub-second precision
 - 2026-06-01 18:18:32 - docs: on-chain audit trail and ledger activity feed
+- 2026-06-01 20:47:36 - feat: refactor emergency social recovery proposal structure implementation
