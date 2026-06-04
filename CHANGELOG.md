@@ -289,3 +289,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-06-01 18:18:32 - docs: on-chain audit trail and ledger activity feed
 - 2026-06-01 20:47:36 - feat: refactor emergency social recovery proposal structure implementation
 - 2026-06-02 17:02:08 - perf: enhance velocity quota reset on epoch rollover
+- 2026-06-04 13:17:30 - feat: tune parameters for optimized wasm32v1-none build and size reduction
