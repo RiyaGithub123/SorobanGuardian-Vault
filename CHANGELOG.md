@@ -298,3 +298,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-06-10 11:55:11 - feat: add unit checks for fast-path spending authorization for owner key
 - 2026-06-11 16:42:40 - perf: refactor fast-path spending authorization for owner key implementation
 - 2026-06-11 16:56:31 - docs: add unit checks for add event emissions for guardian approval
+- 2026-06-11 18:14:37 - docs: update multi-role simulation for owner and guardians
