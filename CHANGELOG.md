@@ -303,3 +303,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-06-12 12:00:54 - docs: tune parameters for add event emissions for guardian approval
 - 2026-06-12 12:54:46 - docs: add unit checks for timelock countdown bar and security status
 - 2026-06-12 13:52:56 - docs: resolve issue in timelock delay enforcement on recovery execution
+- 2026-06-12 15:59:06 - perf: update architecture markdown with mermaid governance flow
