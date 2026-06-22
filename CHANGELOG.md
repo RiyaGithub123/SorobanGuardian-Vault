@@ -311,3 +311,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-06-17 14:29:32 - perf: add unit checks for dynamic daily spending quota meter
 - 2026-06-19 11:00:33 - refactor: add unit checks for React Web3 account abstraction portal
 - 2026-06-19 21:24:04 - docs: resolve issue in guardian registry and threshold quorum validation
+- 2026-06-22 14:11:54 - fix: enhance velocity quota reset on epoch rollover
