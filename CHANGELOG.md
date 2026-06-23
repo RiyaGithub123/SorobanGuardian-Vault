@@ -313,3 +313,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-06-19 21:24:04 - docs: resolve issue in guardian registry and threshold quorum validation
 - 2026-06-22 14:11:54 - fix: enhance velocity quota reset on epoch rollover
 - 2026-06-22 19:53:35 - docs: timelock countdown bar and security status
+- 2026-06-23 09:46:18 - feat: tune parameters for on-chain audit trail and ledger activity feed
