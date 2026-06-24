@@ -319,3 +319,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-06-23 14:22:04 - style: resolve issue in add event emissions for guardian approval
 - 2026-06-23 14:36:22 - fix: add unit checks for emergency social recovery proposal structure
 - 2026-06-23 17:42:01 - docs: update soroban unit test for velocity spend rejection
+- 2026-06-24 12:47:39 - docs: resolve issue in add event emissions for guardian approval
