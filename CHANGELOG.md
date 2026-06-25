@@ -324,3 +324,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-06-25 09:59:13 - style: refactor dynamic daily spending quota meter implementation
 - 2026-06-25 16:13:44 - perf: add unit checks for guardian voting desk and signature simulator
 - 2026-06-25 18:49:19 - refactor: soroban unit test for velocity spend rejection
+- 2026-06-25 22:20:00 - style: enhance verify storage instance TTL renewal on vault spend
