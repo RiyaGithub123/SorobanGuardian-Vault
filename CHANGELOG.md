@@ -322,3 +322,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-06-24 12:47:39 - docs: resolve issue in add event emissions for guardian approval
 - 2026-06-24 16:42:42 - test: resolve issue in add event emissions for guardian approval
 - 2026-06-25 09:59:13 - style: refactor dynamic daily spending quota meter implementation
+- 2026-06-25 16:13:44 - perf: add unit checks for guardian voting desk and signature simulator
