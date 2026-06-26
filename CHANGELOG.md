@@ -326,3 +326,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-06-25 18:49:19 - refactor: soroban unit test for velocity spend rejection
 - 2026-06-25 22:20:00 - style: enhance verify storage instance TTL renewal on vault spend
 - 2026-06-26 09:57:33 - test: architecture markdown with mermaid governance flow
+- 2026-06-26 14:59:29 - docs: add unit checks for rolling 24-hour velocity limit spending model
