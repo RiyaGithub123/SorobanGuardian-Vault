@@ -327,3 +327,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-06-25 22:20:00 - style: enhance verify storage instance TTL renewal on vault spend
 - 2026-06-26 09:57:33 - test: architecture markdown with mermaid governance flow
 - 2026-06-26 14:59:29 - docs: add unit checks for rolling 24-hour velocity limit spending model
+- 2026-06-29 20:16:00 - perf: enhance guardian voting desk and signature simulator
