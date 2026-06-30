@@ -331,3 +331,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-06-29 21:25:13 - fix: resolve issue in add event emissions for guardian approval
 - 2026-06-29 22:43:26 - style: resolve issue in optimized wasm32v1-none build and size reduction
 - 2026-06-30 15:23:35 - chore: add unit checks for velocity quota reset on epoch rollover
+- 2026-06-30 15:28:34 - refactor: update fix timelock comparison for sub-second precision
