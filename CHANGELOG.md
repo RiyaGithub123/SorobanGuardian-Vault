@@ -330,3 +330,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-06-29 20:16:00 - perf: enhance guardian voting desk and signature simulator
 - 2026-06-29 21:25:13 - fix: resolve issue in add event emissions for guardian approval
 - 2026-06-29 22:43:26 - style: resolve issue in optimized wasm32v1-none build and size reduction
+- 2026-06-30 15:23:35 - chore: add unit checks for velocity quota reset on epoch rollover
