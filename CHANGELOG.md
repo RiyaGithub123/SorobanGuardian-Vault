@@ -338,3 +338,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-01 19:25:20 - fix: add unit checks for dynamic daily spending quota meter
 - 2026-07-05 10:54:50 - style: timelock delay enforcement on recovery execution
 - 2026-07-05 13:14:09 - style: update multi-role simulation for owner and guardians
+- 2026-07-05 19:21:49 - chore: guardian cryptographic vote recording
