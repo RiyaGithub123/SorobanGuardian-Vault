@@ -341,3 +341,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-05 19:21:49 - chore: guardian cryptographic vote recording
 - 2026-07-06 09:15:57 - test: add unit checks for guardian cryptographic vote recording
 - 2026-07-06 11:03:34 - chore: multi-role simulation for owner and guardians
+- 2026-07-06 13:06:21 - test: fix timelock comparison for sub-second precision
