@@ -345,3 +345,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-06 15:14:22 - fix: update timelock delay enforcement on recovery execution
 - 2026-07-06 21:37:57 - perf: tune parameters for timelock countdown bar and security status
 - 2026-07-07 09:38:01 - perf: update soroban unit test for social recovery workflow
+- 2026-07-07 09:56:30 - perf: enhance add event emissions for guardian approval
