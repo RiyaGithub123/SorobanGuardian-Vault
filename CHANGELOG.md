@@ -347,3 +347,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-07 09:38:01 - perf: update soroban unit test for social recovery workflow
 - 2026-07-07 09:56:30 - perf: enhance add event emissions for guardian approval
 - 2026-07-07 12:23:20 - refactor: update velocity quota reset on epoch rollover
+- 2026-07-07 13:53:23 - style: velocity quota reset on epoch rollover
