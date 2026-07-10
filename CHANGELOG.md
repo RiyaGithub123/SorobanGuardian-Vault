@@ -350,3 +350,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-07 13:53:23 - style: velocity quota reset on epoch rollover
 - 2026-07-08 13:54:29 - docs: add unit checks for verify storage instance TTL renewal on vault spend
 - 2026-07-08 17:26:12 - style: tune parameters for React Web3 account abstraction portal
+- 2026-07-10 16:14:58 - docs: resolve issue in smart account vault contract initialization
