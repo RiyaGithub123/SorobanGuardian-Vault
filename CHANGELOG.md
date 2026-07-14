@@ -351,3 +351,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-08 13:54:29 - docs: add unit checks for verify storage instance TTL renewal on vault spend
 - 2026-07-08 17:26:12 - style: tune parameters for React Web3 account abstraction portal
 - 2026-07-10 16:14:58 - docs: resolve issue in smart account vault contract initialization
+- 2026-07-14 13:08:54 - perf: update on-chain audit trail and ledger activity feed
