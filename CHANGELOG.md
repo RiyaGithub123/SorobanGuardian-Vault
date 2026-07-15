@@ -352,3 +352,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-08 17:26:12 - style: tune parameters for React Web3 account abstraction portal
 - 2026-07-10 16:14:58 - docs: resolve issue in smart account vault contract initialization
 - 2026-07-14 13:08:54 - perf: update on-chain audit trail and ledger activity feed
+- 2026-07-15 11:29:17 - style: add unit checks for ownership migration and old key revocation
