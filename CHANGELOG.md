@@ -354,3 +354,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-14 13:08:54 - perf: update on-chain audit trail and ledger activity feed
 - 2026-07-15 11:29:17 - style: add unit checks for ownership migration and old key revocation
 - 2026-07-15 19:02:32 - test: update on-chain audit trail and ledger activity feed
+- 2026-07-15 21:46:18 - chore: enhance on-chain audit trail and ledger activity feed
