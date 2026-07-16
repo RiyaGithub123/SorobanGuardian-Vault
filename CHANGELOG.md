@@ -356,3 +356,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-15 19:02:32 - test: update on-chain audit trail and ledger activity feed
 - 2026-07-15 21:46:18 - chore: enhance on-chain audit trail and ledger activity feed
 - 2026-07-15 21:49:25 - style: refactor velocity quota reset on epoch rollover implementation
+- 2026-07-16 11:46:57 - style: enhance soroban unit test for velocity spend rejection
