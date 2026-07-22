@@ -360,3 +360,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-16 19:18:00 - docs: add unit checks for soroban unit test for social recovery workflow
 - 2026-07-22 15:54:22 - feat: enhance guardian cryptographic vote recording
 - 2026-07-22 19:05:24 - style: enhance multi-role simulation for owner and guardians
+- 2026-07-22 19:50:23 - feat: resolve issue in soroban unit test for velocity spend rejection
