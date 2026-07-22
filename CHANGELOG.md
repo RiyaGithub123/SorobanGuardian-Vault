@@ -362,3 +362,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-22 19:05:24 - style: enhance multi-role simulation for owner and guardians
 - 2026-07-22 19:50:23 - feat: resolve issue in soroban unit test for velocity spend rejection
 - 2026-07-22 20:19:21 - refactor: update verify storage instance TTL renewal on vault spend
+- 2026-07-22 21:07:37 - chore: update verify storage instance TTL renewal on vault spend
