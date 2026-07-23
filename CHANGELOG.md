@@ -367,3 +367,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-23 12:54:28 - style: update optimized wasm32v1-none build and size reduction
 - 2026-07-23 13:15:54 - feat: tune parameters for multi-role simulation for owner and guardians
 - 2026-07-23 13:49:13 - chore: resolve issue in guardian voting desk and signature simulator
+- 2026-07-23 20:36:58 - test: update soroban unit test for social recovery workflow
