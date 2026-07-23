@@ -365,3 +365,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-22 21:07:37 - chore: update verify storage instance TTL renewal on vault spend
 - 2026-07-22 22:19:58 - docs: fast-path spending authorization for owner key
 - 2026-07-23 12:54:28 - style: update optimized wasm32v1-none build and size reduction
+- 2026-07-23 13:15:54 - feat: tune parameters for multi-role simulation for owner and guardians
