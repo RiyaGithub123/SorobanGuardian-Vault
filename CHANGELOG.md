@@ -372,3 +372,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-27 14:43:29 - test: refactor smart account vault contract initialization implementation
 - 2026-07-27 21:00:59 - style: emergency social recovery proposal structure
 - 2026-07-28 17:05:20 - test: tune parameters for architecture markdown with mermaid governance flow
+- 2026-07-28 17:14:04 - docs: update architecture markdown with mermaid governance flow
