@@ -374,3 +374,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-28 17:05:20 - test: tune parameters for architecture markdown with mermaid governance flow
 - 2026-07-28 17:14:04 - docs: update architecture markdown with mermaid governance flow
 - 2026-07-29 10:50:17 - chore: update add event emissions for guardian approval
+- 2026-07-29 13:28:19 - test: emergency social recovery proposal structure
