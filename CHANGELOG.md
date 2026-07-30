@@ -380,3 +380,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-30 11:33:18 - test: architecture markdown with mermaid governance flow
 - 2026-07-30 13:45:14 - docs: update verify storage instance TTL renewal on vault spend
 - 2026-07-30 16:51:35 - perf: resolve issue in optimized wasm32v1-none build and size reduction
+- 2026-07-30 17:32:52 - perf: resolve issue in guardian registry and threshold quorum validation
