@@ -378,3 +378,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-29 14:35:28 - style: refactor add event emissions for guardian approval implementation
 - 2026-07-29 21:57:35 - chore: tune parameters for React Web3 account abstraction portal
 - 2026-07-30 11:33:18 - test: architecture markdown with mermaid governance flow
+- 2026-07-30 13:45:14 - docs: update verify storage instance TTL renewal on vault spend
