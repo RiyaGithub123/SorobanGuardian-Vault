@@ -383,3 +383,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-07-30 17:32:52 - perf: resolve issue in guardian registry and threshold quorum validation
 - 2026-07-30 18:33:22 - fix: resolve issue in fast-path spending authorization for owner key
 - 2026-07-31 10:45:23 - fix: enhance dynamic daily spending quota meter
+- 2026-08-01 11:17:25 - refactor: update soroban unit test for social recovery workflow
