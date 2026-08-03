@@ -389,3 +389,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-03 11:26:39 - test: tune parameters for guardian registry and threshold quorum validation
 - 2026-08-03 16:36:48 - chore: resolve issue in React Web3 account abstraction portal
 - 2026-08-03 19:20:12 - docs: refactor velocity quota reset on epoch rollover implementation
+- 2026-08-03 21:18:44 - test: tune parameters for soroban unit test for social recovery workflow
