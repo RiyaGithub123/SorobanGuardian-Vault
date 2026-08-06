@@ -395,3 +395,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-04 17:21:36 - chore: refactor guardian voting desk and signature simulator implementation
 - 2026-08-04 21:50:44 - style: update dynamic daily spending quota meter
 - 2026-08-06 12:23:26 - chore: refactor soroban unit test for social recovery workflow implementation
+- 2026-08-06 16:25:57 - docs: refactor on-chain audit trail and ledger activity feed implementation
