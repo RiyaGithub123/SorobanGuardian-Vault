@@ -398,3 +398,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-06 16:25:57 - docs: refactor on-chain audit trail and ledger activity feed implementation
 - 2026-08-06 18:16:24 - style: add unit checks for add event emissions for guardian approval
 - 2026-08-06 18:28:12 - refactor: emergency social recovery proposal structure
+- 2026-08-07 11:43:13 - docs: tune parameters for guardian cryptographic vote recording
