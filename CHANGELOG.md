@@ -405,3 +405,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-10 11:59:14 - perf: add unit checks for timelock delay enforcement on recovery execution
 - 2026-08-10 16:39:16 - fix: refactor dynamic daily spending quota meter implementation
 - 2026-08-10 17:21:22 - docs: enhance fix timelock comparison for sub-second precision
+- 2026-08-10 17:22:53 - chore: tune parameters for velocity quota reset on epoch rollover
