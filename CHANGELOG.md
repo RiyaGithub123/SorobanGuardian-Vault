@@ -407,3 +407,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-10 17:21:22 - docs: enhance fix timelock comparison for sub-second precision
 - 2026-08-10 17:22:53 - chore: tune parameters for velocity quota reset on epoch rollover
 - 2026-08-11 14:39:59 - perf: enhance on-chain audit trail and ledger activity feed
+- 2026-08-11 19:22:25 - feat: tune parameters for velocity quota reset on epoch rollover
