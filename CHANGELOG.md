@@ -410,3 +410,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-11 19:22:25 - feat: tune parameters for velocity quota reset on epoch rollover
 - 2026-08-12 14:02:23 - feat: tune parameters for fix timelock comparison for sub-second precision
 - 2026-08-12 20:54:41 - style: enhance smart account vault contract initialization
+- 2026-08-13 14:17:11 - chore: resolve issue in soroban unit test for social recovery workflow
