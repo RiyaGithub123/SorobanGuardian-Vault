@@ -411,3 +411,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-12 14:02:23 - feat: tune parameters for fix timelock comparison for sub-second precision
 - 2026-08-12 20:54:41 - style: enhance smart account vault contract initialization
 - 2026-08-13 14:17:11 - chore: resolve issue in soroban unit test for social recovery workflow
+- 2026-08-13 22:43:48 - test: resolve issue in guardian registry and threshold quorum validation
