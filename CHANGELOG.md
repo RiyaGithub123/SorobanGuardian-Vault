@@ -413,3 +413,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-13 14:17:11 - chore: resolve issue in soroban unit test for social recovery workflow
 - 2026-08-13 22:43:48 - test: resolve issue in guardian registry and threshold quorum validation
 - 2026-08-14 11:10:15 - fix: soroban unit test for social recovery workflow
+- 2026-08-14 15:05:48 - refactor: tune parameters for React Web3 account abstraction portal
