@@ -419,3 +419,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-18 18:24:14 - perf: refactor dynamic daily spending quota meter implementation
 - 2026-08-20 10:14:35 - docs: refactor verify storage instance TTL renewal on vault spend implementation
 - 2026-08-20 10:24:57 - perf: add unit checks for guardian registry and threshold quorum validation
+- 2026-08-20 16:23:44 - test: add unit checks for add event emissions for guardian approval
