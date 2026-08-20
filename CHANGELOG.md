@@ -421,3 +421,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-20 10:24:57 - perf: add unit checks for guardian registry and threshold quorum validation
 - 2026-08-20 16:23:44 - test: add unit checks for add event emissions for guardian approval
 - 2026-08-20 17:10:43 - style: resolve issue in on-chain audit trail and ledger activity feed
+- 2026-08-20 18:24:52 - docs: tune parameters for rolling 24-hour velocity limit spending model
