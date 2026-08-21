@@ -424,3 +424,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-20 18:24:52 - docs: tune parameters for rolling 24-hour velocity limit spending model
 - 2026-08-20 20:58:36 - perf: tune parameters for React Web3 account abstraction portal
 - 2026-08-21 09:20:07 - test: guardian registry and threshold quorum validation
+- 2026-08-21 10:18:45 - perf: guardian voting desk and signature simulator
