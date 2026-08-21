@@ -423,3 +423,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-20 17:10:43 - style: resolve issue in on-chain audit trail and ledger activity feed
 - 2026-08-20 18:24:52 - docs: tune parameters for rolling 24-hour velocity limit spending model
 - 2026-08-20 20:58:36 - perf: tune parameters for React Web3 account abstraction portal
+- 2026-08-21 09:20:07 - test: guardian registry and threshold quorum validation
