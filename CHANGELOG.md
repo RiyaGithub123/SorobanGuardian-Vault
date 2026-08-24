@@ -427,3 +427,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-21 10:18:45 - perf: guardian voting desk and signature simulator
 - 2026-08-21 19:00:22 - refactor: enhance velocity quota reset on epoch rollover
 - 2026-08-24 15:13:10 - chore: enhance add event emissions for guardian approval
+- 2026-08-24 21:37:43 - perf: refactor multi-role simulation for owner and guardians implementation
