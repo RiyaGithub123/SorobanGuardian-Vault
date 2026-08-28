@@ -432,3 +432,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-25 15:25:13 - docs: enhance React Web3 account abstraction portal
 - 2026-08-26 16:13:19 - style: resolve issue in React Web3 account abstraction portal
 - 2026-08-26 18:28:04 - style: add unit checks for multi-role simulation for owner and guardians
+- 2026-08-28 10:26:45 - feat: enhance guardian registry and threshold quorum validation
