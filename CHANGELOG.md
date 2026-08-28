@@ -434,3 +434,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-26 18:28:04 - style: add unit checks for multi-role simulation for owner and guardians
 - 2026-08-28 10:26:45 - feat: enhance guardian registry and threshold quorum validation
 - 2026-08-28 10:42:32 - fix: add unit checks for fix timelock comparison for sub-second precision
+- 2026-08-28 20:22:57 - docs: resolve issue in optimized wasm32v1-none build and size reduction
