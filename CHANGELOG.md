@@ -435,3 +435,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-28 10:26:45 - feat: enhance guardian registry and threshold quorum validation
 - 2026-08-28 10:42:32 - fix: add unit checks for fix timelock comparison for sub-second precision
 - 2026-08-28 20:22:57 - docs: resolve issue in optimized wasm32v1-none build and size reduction
+- 2026-09-01 10:51:20 - perf: add unit checks for verify storage instance TTL renewal on vault spend
