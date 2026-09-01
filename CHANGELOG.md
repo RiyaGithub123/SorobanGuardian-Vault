@@ -439,3 +439,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-09-01 11:01:35 - style: update timelock countdown bar and security status
 - 2026-09-01 13:38:02 - fix: add unit checks for guardian registry and threshold quorum validation
 - 2026-09-01 14:08:16 - fix: update timelock countdown bar and security status
+- 2026-09-01 14:23:11 - refactor: fast-path spending authorization for owner key
