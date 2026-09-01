@@ -437,3 +437,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-08-28 20:22:57 - docs: resolve issue in optimized wasm32v1-none build and size reduction
 - 2026-09-01 10:51:20 - perf: add unit checks for verify storage instance TTL renewal on vault spend
 - 2026-09-01 11:01:35 - style: update timelock countdown bar and security status
+- 2026-09-01 13:38:02 - fix: add unit checks for guardian registry and threshold quorum validation
