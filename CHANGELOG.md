@@ -443,3 +443,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-09-01 17:36:17 - docs: enhance guardian registry and threshold quorum validation
 - 2026-09-03 09:20:49 - fix: enhance React Web3 account abstraction portal
 - 2026-09-03 10:23:02 - refactor: enhance timelock delay enforcement on recovery execution
+- 2026-09-03 15:18:01 - style: update guardian cryptographic vote recording
