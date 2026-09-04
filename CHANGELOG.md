@@ -446,3 +446,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-09-03 15:18:01 - style: update guardian cryptographic vote recording
 - 2026-09-04 12:29:32 - chore: resolve issue in dynamic daily spending quota meter
 - 2026-09-04 15:14:44 - perf: update verify storage instance TTL renewal on vault spend
+- 2026-09-04 16:51:37 - refactor: tune parameters for multi-role simulation for owner and guardians
