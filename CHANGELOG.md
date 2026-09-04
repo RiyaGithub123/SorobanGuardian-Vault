@@ -448,3 +448,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-09-04 15:14:44 - perf: update verify storage instance TTL renewal on vault spend
 - 2026-09-04 16:51:37 - refactor: tune parameters for multi-role simulation for owner and guardians
 - 2026-09-04 18:53:04 - fix: velocity quota reset on epoch rollover
+- 2026-09-04 19:57:12 - feat: enhance velocity quota reset on epoch rollover
