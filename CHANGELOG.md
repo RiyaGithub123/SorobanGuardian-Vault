@@ -445,3 +445,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-09-03 10:23:02 - refactor: enhance timelock delay enforcement on recovery execution
 - 2026-09-03 15:18:01 - style: update guardian cryptographic vote recording
 - 2026-09-04 12:29:32 - chore: resolve issue in dynamic daily spending quota meter
+- 2026-09-04 15:14:44 - perf: update verify storage instance TTL renewal on vault spend
