@@ -450,3 +450,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-09-04 18:53:04 - fix: velocity quota reset on epoch rollover
 - 2026-09-04 19:57:12 - feat: enhance velocity quota reset on epoch rollover
 - 2026-09-05 09:37:13 - style: verify storage instance TTL renewal on vault spend
+- 2026-09-05 16:33:13 - feat: add unit checks for guardian cryptographic vote recording
