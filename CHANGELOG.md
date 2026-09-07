@@ -452,3 +452,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-09-05 09:37:13 - style: verify storage instance TTL renewal on vault spend
 - 2026-09-05 16:33:13 - feat: add unit checks for guardian cryptographic vote recording
 - 2026-09-05 20:52:37 - perf: tune parameters for rolling 24-hour velocity limit spending model
+- 2026-09-07 12:30:09 - perf: refactor rolling 24-hour velocity limit spending model implementation
