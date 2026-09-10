@@ -456,3 +456,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-09-07 18:16:11 - chore: add unit checks for React Web3 account abstraction portal
 - 2026-09-07 22:07:18 - feat: tune parameters for guardian registry and threshold quorum validation
 - 2026-09-09 17:29:56 - docs: update fast-path spending authorization for owner key
+- 2026-09-10 18:52:20 - fix: update velocity quota reset on epoch rollover
