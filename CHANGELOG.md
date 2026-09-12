@@ -459,3 +459,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-09-10 18:52:20 - fix: update velocity quota reset on epoch rollover
 - 2026-09-10 22:10:35 - fix: refactor soroban unit test for social recovery workflow implementation
 - 2026-09-12 17:52:21 - perf: resolve issue in architecture markdown with mermaid governance flow
+- 2026-09-12 19:38:03 - docs: refactor ownership migration and old key revocation implementation
