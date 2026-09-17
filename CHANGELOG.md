@@ -463,3 +463,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-09-17 09:42:25 - feat: add unit checks for architecture markdown with mermaid governance flow
 - 2026-09-17 09:54:01 - fix: tune parameters for fix timelock comparison for sub-second precision
 - 2026-09-17 19:03:48 - fix: refactor fix timelock comparison for sub-second precision implementation
+- 2026-09-17 19:06:19 - docs: resolve issue in fast-path spending authorization for owner key
