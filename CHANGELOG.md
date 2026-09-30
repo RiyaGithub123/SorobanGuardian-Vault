@@ -473,3 +473,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-09-28 18:51:55 - feat: refactor timelock delay enforcement on recovery execution implementation
 - 2026-09-28 20:54:29 - test: enhance dynamic daily spending quota meter
 - 2026-09-28 21:00:06 - fix: refactor timelock delay enforcement on recovery execution implementation
+- 2026-09-30 15:02:28 - feat: soroban unit test for velocity spend rejection
