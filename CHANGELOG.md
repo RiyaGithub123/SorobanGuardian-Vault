@@ -478,3 +478,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-03 15:48:28 - style: tune parameters for timelock countdown bar and security status
 - 2026-10-07 10:31:12 - docs: smart account vault contract initialization
 - 2026-10-07 22:16:28 - fix: enhance rolling 24-hour velocity limit spending model
+- 2026-10-08 11:46:00 - perf: resolve issue in guardian voting desk and signature simulator
