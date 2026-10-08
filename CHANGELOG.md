@@ -480,3 +480,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-07 22:16:28 - fix: enhance rolling 24-hour velocity limit spending model
 - 2026-10-08 11:46:00 - perf: resolve issue in guardian voting desk and signature simulator
 - 2026-10-08 21:36:45 - feat: enhance on-chain audit trail and ledger activity feed
+- 2026-10-08 22:06:55 - refactor: enhance verify storage instance TTL renewal on vault spend
