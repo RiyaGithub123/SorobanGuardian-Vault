@@ -482,3 +482,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-08 21:36:45 - feat: enhance on-chain audit trail and ledger activity feed
 - 2026-10-08 22:06:55 - refactor: enhance verify storage instance TTL renewal on vault spend
 - 2026-10-09 14:03:13 - chore: soroban unit test for velocity spend rejection
+- 2026-10-09 14:33:19 - feat: tune parameters for velocity quota reset on epoch rollover
