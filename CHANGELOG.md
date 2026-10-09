@@ -484,3 +484,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-09 14:03:13 - chore: soroban unit test for velocity spend rejection
 - 2026-10-09 14:33:19 - feat: tune parameters for velocity quota reset on epoch rollover
 - 2026-10-09 16:49:25 - perf: optimized wasm32v1-none build and size reduction
+- 2026-10-09 19:37:18 - feat: update fix timelock comparison for sub-second precision
