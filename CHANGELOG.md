@@ -486,3 +486,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-09 16:49:25 - perf: optimized wasm32v1-none build and size reduction
 - 2026-10-09 19:37:18 - feat: update fix timelock comparison for sub-second precision
 - 2026-10-13 13:08:45 - fix: refactor fix timelock comparison for sub-second precision implementation
+- 2026-10-13 15:29:24 - style: velocity quota reset on epoch rollover
