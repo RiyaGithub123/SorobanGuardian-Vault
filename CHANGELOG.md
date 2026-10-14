@@ -489,3 +489,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-13 15:29:24 - style: velocity quota reset on epoch rollover
 - 2026-10-13 15:41:07 - feat: update multi-role simulation for owner and guardians
 - 2026-10-13 20:59:09 - feat: add unit checks for fast-path spending authorization for owner key
+- 2026-10-14 11:30:47 - docs: tune parameters for smart account vault contract initialization
