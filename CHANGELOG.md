@@ -492,3 +492,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-14 11:30:47 - docs: tune parameters for smart account vault contract initialization
 - 2026-10-14 19:45:07 - feat: add unit checks for guardian voting desk and signature simulator
 - 2026-10-16 10:48:29 - style: add event emissions for guardian approval
+- 2026-10-16 15:10:46 - docs: velocity quota reset on epoch rollover
