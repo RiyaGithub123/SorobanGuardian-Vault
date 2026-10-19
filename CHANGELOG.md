@@ -493,3 +493,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-14 19:45:07 - feat: add unit checks for guardian voting desk and signature simulator
 - 2026-10-16 10:48:29 - style: add event emissions for guardian approval
 - 2026-10-16 15:10:46 - docs: velocity quota reset on epoch rollover
+- 2026-10-19 11:15:08 - refactor: update timelock delay enforcement on recovery execution
