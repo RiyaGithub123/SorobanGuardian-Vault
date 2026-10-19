@@ -494,3 +494,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-16 10:48:29 - style: add event emissions for guardian approval
 - 2026-10-16 15:10:46 - docs: velocity quota reset on epoch rollover
 - 2026-10-19 11:15:08 - refactor: update timelock delay enforcement on recovery execution
+- 2026-10-19 13:00:57 - docs: verify storage instance TTL renewal on vault spend
