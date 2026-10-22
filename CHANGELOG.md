@@ -498,3 +498,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-20 13:40:50 - perf: refactor architecture markdown with mermaid governance flow implementation
 - 2026-10-20 14:34:24 - fix: update optimized wasm32v1-none build and size reduction
 - 2026-10-22 11:03:47 - feat: update soroban unit test for velocity spend rejection
+- 2026-10-22 14:40:33 - perf: update architecture markdown with mermaid governance flow
