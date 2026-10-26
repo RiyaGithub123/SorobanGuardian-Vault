@@ -499,3 +499,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-20 14:34:24 - fix: update optimized wasm32v1-none build and size reduction
 - 2026-10-22 11:03:47 - feat: update soroban unit test for velocity spend rejection
 - 2026-10-22 14:40:33 - perf: update architecture markdown with mermaid governance flow
+- 2026-10-26 13:00:14 - style: update smart account vault contract initialization
