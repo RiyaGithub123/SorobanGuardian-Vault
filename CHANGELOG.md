@@ -509,3 +509,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-29 11:30:04 - style: verify storage instance TTL renewal on vault spend
 - 2026-10-29 12:07:34 - chore: enhance emergency social recovery proposal structure
 - 2026-10-29 14:50:27 - fix: enhance multi-role simulation for owner and guardians
+- 2026-10-29 18:01:29 - docs: tune parameters for on-chain audit trail and ledger activity feed
