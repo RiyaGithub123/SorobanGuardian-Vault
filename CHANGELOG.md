@@ -508,3 +508,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-28 17:28:09 - refactor: resolve issue in fix timelock comparison for sub-second precision
 - 2026-10-29 11:30:04 - style: verify storage instance TTL renewal on vault spend
 - 2026-10-29 12:07:34 - chore: enhance emergency social recovery proposal structure
+- 2026-10-29 14:50:27 - fix: enhance multi-role simulation for owner and guardians
