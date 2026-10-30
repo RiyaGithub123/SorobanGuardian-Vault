@@ -511,3 +511,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-29 14:50:27 - fix: enhance multi-role simulation for owner and guardians
 - 2026-10-29 18:01:29 - docs: tune parameters for on-chain audit trail and ledger activity feed
 - 2026-10-29 19:23:52 - perf: enhance ownership migration and old key revocation
+- 2026-10-30 12:56:24 - refactor: tune parameters for rolling 24-hour velocity limit spending model
