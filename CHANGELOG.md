@@ -514,3 +514,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-10-30 12:56:24 - refactor: tune parameters for rolling 24-hour velocity limit spending model
 - 2026-10-30 13:36:05 - fix: update optimized wasm32v1-none build and size reduction
 - 2026-10-30 15:19:10 - feat: refactor multi-role simulation for owner and guardians implementation
+- 2026-11-02 12:20:25 - chore: add unit checks for guardian cryptographic vote recording
