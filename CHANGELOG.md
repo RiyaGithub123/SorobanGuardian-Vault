@@ -517,3 +517,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-11-02 12:20:25 - chore: add unit checks for guardian cryptographic vote recording
 - 2026-11-02 18:01:02 - style: resolve issue in guardian voting desk and signature simulator
 - 2026-11-05 09:58:20 - style: add unit checks for optimized wasm32v1-none build and size reduction
+- 2026-11-05 14:16:21 - docs: enhance velocity quota reset on epoch rollover
