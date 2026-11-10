@@ -520,3 +520,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-11-05 14:16:21 - docs: enhance velocity quota reset on epoch rollover
 - 2026-11-05 18:35:01 - docs: update soroban unit test for velocity spend rejection
 - 2026-11-10 14:04:04 - chore: enhance soroban unit test for velocity spend rejection
+- 2026-11-10 19:19:02 - fix: add unit checks for soroban unit test for velocity spend rejection
