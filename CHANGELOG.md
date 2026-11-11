@@ -521,3 +521,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-11-05 18:35:01 - docs: update soroban unit test for velocity spend rejection
 - 2026-11-10 14:04:04 - chore: enhance soroban unit test for velocity spend rejection
 - 2026-11-10 19:19:02 - fix: add unit checks for soroban unit test for velocity spend rejection
+- 2026-11-11 10:28:59 - style: enhance guardian cryptographic vote recording
