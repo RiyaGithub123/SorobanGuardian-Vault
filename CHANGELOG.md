@@ -525,3 +525,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-11-11 12:41:19 - perf: refactor dynamic daily spending quota meter implementation
 - 2026-11-11 13:02:45 - style: enhance rolling 24-hour velocity limit spending model
 - 2026-11-11 18:22:56 - fix: enhance optimized wasm32v1-none build and size reduction
+- 2026-11-11 18:48:30 - feat: add unit checks for velocity quota reset on epoch rollover
