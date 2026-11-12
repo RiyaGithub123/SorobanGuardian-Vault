@@ -532,3 +532,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-11-12 17:57:41 - test: add unit checks for emergency social recovery proposal structure
 - 2026-11-12 19:20:04 - refactor: refactor dynamic daily spending quota meter implementation
 - 2026-11-12 20:14:14 - docs: multi-role simulation for owner and guardians
+- 2026-11-12 21:03:58 - docs: tune parameters for guardian cryptographic vote recording
