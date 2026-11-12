@@ -527,3 +527,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-11-11 18:22:56 - fix: enhance optimized wasm32v1-none build and size reduction
 - 2026-11-11 18:48:30 - feat: add unit checks for velocity quota reset on epoch rollover
 - 2026-11-11 22:32:03 - refactor: enhance soroban unit test for social recovery workflow
+- 2026-11-12 11:05:36 - docs: enhance fix timelock comparison for sub-second precision
