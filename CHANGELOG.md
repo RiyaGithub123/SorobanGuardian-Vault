@@ -534,3 +534,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-11-12 20:14:14 - docs: multi-role simulation for owner and guardians
 - 2026-11-12 21:03:58 - docs: tune parameters for guardian cryptographic vote recording
 - 2026-11-16 10:23:35 - style: add unit checks for timelock delay enforcement on recovery execution
+- 2026-11-16 11:39:52 - perf: refactor add event emissions for guardian approval implementation
