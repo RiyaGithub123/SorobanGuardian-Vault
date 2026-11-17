@@ -538,3 +538,4 @@ Project `SorobanGuardian-Vault` tracking log.
 - 2026-11-16 12:30:17 - fix: add unit checks for fix timelock comparison for sub-second precision
 - 2026-11-16 14:46:32 - test: enhance guardian voting desk and signature simulator
 - 2026-11-16 15:49:54 - fix: refactor guardian voting desk and signature simulator implementation
+- 2026-11-17 09:37:15 - docs: add unit checks for rolling 24-hour velocity limit spending model
