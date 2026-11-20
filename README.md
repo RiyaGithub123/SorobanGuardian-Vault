@@ -1,4 +1,4 @@
-# Project 3: SorobanGuardian Vault
+# Project : SorobanGuardian Vault
 
 > **Smart Account Abstraction, M-of-N Social Recovery & Spending Policies on Stellar & Soroban**
 
